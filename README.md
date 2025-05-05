@@ -1,4 +1,4 @@
-# 📊 She++ Data Science VIII
+# 📊 IWD: She++ VIIIed. Taller de ciencia de datos
 
 Este repositorio contiene la información del taller de ciencia de datos de la VIII de she++ hecho en colaboración con WTM (Women TechMakers). El objetivo principal es introducir y aplicar conceptos fundamentales de ciencia de datos utilizando Python y las herramientas más usadas en ciencia de datos.
 
